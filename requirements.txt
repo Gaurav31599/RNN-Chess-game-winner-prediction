@@ -1,0 +1,7 @@
+pyspark==3.2.1
+py4j==0.10.9.3
+findspark
+numpy
+pandas
+matplotlib
+seaborn

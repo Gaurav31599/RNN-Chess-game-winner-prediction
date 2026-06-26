@@ -1,0 +1,33 @@
+# Data (download separately from Kaggle)
+data/
+*.csv
+
+# Model outputs / saved models
+outputs/
+*.png
+*.jar
+*.tgz
+
+# Spark
+spark-*/
+*.jar
+derby.log
+metastore_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
