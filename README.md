@@ -81,4 +81,4 @@ python src/main.py --data data/games.csv
 
 ---
 
-*Originally developed during the II level Master in Big Data Analytics and Social Mining, University of Pisa.*
+*Developed as part of the MSc programme at Coventry University.*
